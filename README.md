@@ -1,3 +1,5 @@
+![logo](https://github.com/Amruta-Salunke/Amruta-Salunke/blob/main/Github%20Banner.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruta-salunke&label=Profile%20views&color=0e75b6&style=flat" alt="amruta-salunkhe" /> </p>
 
 
